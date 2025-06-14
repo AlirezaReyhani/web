@@ -1,7 +1,7 @@
 # 🌐 Web Design Course – Weekly Labs
 
 Welcome to my Web Design repository!  
-This is where I’m uploading all my weekly code and projects from the **Web Design** course taught by **Ms. Mona Moradi**.
+This is where I’m uploading  my weekly code and projects from the **Web Design** course.
 
 Each folder in this repo represents a different session, and contains everything from basic HTML and CSS to more advanced topics like responsive layouts, forms, animations, and more!
 
